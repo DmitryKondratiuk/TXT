@@ -1,0 +1,4 @@
+**Kondratiuk Dmitriy Anatolievich**
+42 age
+1 cat
+3000 salary
